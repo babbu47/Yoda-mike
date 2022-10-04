@@ -29,12 +29,16 @@ body{
     padding-top: 0.5rem;
 }
 #output{
+    box-sizing: border-box;
+    border: 1px solid black;
+    width:40%;
+    margin:0 auto ;
+    font-size:larger;
     margin-top:1rem;
     border-radius: 7px;
-    border-color: black;
     background-color:azure;
     width:40%;
-    height:8rem;
+    height:9rem;
     font-family: 'Comforter Brush', cursive;
 }
 .footing{
