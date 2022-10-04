@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Peralta&display=swap');
+body{
+    font-family: 'Comforter Brush', cursive;
+    text-align: center;
+    background-color: #58F3D1;
+}
+.ap{
+    font-size:3.5rem;
+    margin-bottom: 0rem;
+    margin-top:0%;
+}
+#input{
+    border-radius: 7px;
+    border-color: black;
+    background-color:azure;
+    width:40%;
+    height:8rem;
+    font-family: 'Comforter Brush', cursive;
+    font-size: larger;
+}
+.bot{
+    width: 24%;
+    border-radius:0.5rem;
+    height:3.5rem;
+    font-family: 'Peralta', cursive;
+    font-size:1.2rem;
+    margin-top:0.4rem;
+    padding-top: 0.5rem;
+}
+#output{
+    margin-top:1rem;
+    border-radius: 7px;
+    border-color: black;
+    background-color:azure;
+    width:40%;
+    height:8rem;
+    font-family: 'Comforter Brush', cursive;
+}
+.footing{
+    text-decoration:none;
+    font-size:2rem;
+}
+.info{
+    padding-left:27%;
+    margin:0;
+    width:40vw;
+    }
+.cs
+{
+    display:inline;
+    padding-right: 35%;
+}
