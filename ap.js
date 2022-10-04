@@ -8,7 +8,8 @@ function constructurl(tt)
 }
 function error()
 {
-    return alert("Server is not working")
+    
+   return alert("Server is not working")
 }
 function triggerpoint()
 {

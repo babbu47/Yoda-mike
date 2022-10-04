@@ -19,7 +19,7 @@ body{
     font-family: 'Comforter Brush', cursive;
     font-size: larger;
 }
-.bot{
+#bot{
     width: 24%;
     border-radius:0.5rem;
     height:3.5rem;
