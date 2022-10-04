@@ -4,6 +4,7 @@ body{
     font-family: 'Comforter Brush', cursive;
     text-align: center;
     background-color: #58F3D1;
+    
 }
 .ap{
     font-size:3.5rem;
@@ -40,6 +41,7 @@ body{
     width:40%;
     height:9rem;
     font-family: 'Comforter Brush', cursive;
+    padding-right: 40%;
 }
 .footing{
     text-decoration:none;
