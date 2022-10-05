@@ -1,7 +1,7 @@
 var inputtxt=document.querySelector("#input");
 var outputtxt=document.querySelector("#output");
 var trigger=document.querySelector("#bot");
-var url="https://api.funtranslations.com/translate/orcish.json";
+var url="https://api.funtranslations.com/translate/yoda.json";
 function constructurl(tt)
 {
     return url+"?"+"text="+tt
@@ -18,6 +18,7 @@ function triggerpoint()
     .then(response=>response.json())
     .then(json=>
         {
+            console.log(json);
             var outputt=json.contents.translated;
             outputtxt.innerText=outputt;
         })
